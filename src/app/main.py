@@ -13,7 +13,7 @@ def get_recommender():
     return Recommender()
 
 def main():
-    st.header('ImpactLens: Sustainable Project Recommender')
+    st.header('Sustainable Project Recommendation Engine')
     
     try:
         recommender = get_recommender()
