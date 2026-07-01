@@ -1,4 +1,4 @@
-# ImpactLens: Sustainable Project Recommender
+# Sustainable Project Recommendation Engine
 
 A content-based recommendation system that suggests projects based on descriptions, industries, environmental impacts, and other factors. Built with Python, Scikit-Learn, and Streamlit.
 
@@ -7,7 +7,7 @@ A content-based recommendation system that suggests projects based on descriptio
 This project follows a clean architecture layout:
 
 ```text
-impact-lens/
+Sustainable-Project-Recommendation-Engine/
 ├── data/
 │   ├── processed/          # Serialized models and processed data (.pkl)
 │   └── raw/                # Raw datasets (e.g., projects2.csv)
@@ -28,7 +28,7 @@ impact-lens/
 1. **Clone the repository:**
    ```bash
    git clone <repository_url>
-   cd impact-lens
+   cd Sustainable-Project-Recommendation-Engine
    ```
 
 2. **Install dependencies:**
